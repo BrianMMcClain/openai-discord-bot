@@ -1,0 +1,4 @@
+{
+    "OpenAIKey":"REPLACEME",
+	"DiscordToken":"REPLACEME"
+}
